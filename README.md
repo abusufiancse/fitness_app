@@ -1,6 +1,6 @@
 <h1 align="center">Fitness UI</h1>
 
-## Prints
+## Screenshot
 <p align="center">
 <img width="200" src="https://i.pinimg.com/originals/a6/b1/6d/a6b16da16aa49f7df788cd1d92cafd63.jpg"/>
 <img width="200" src="https://i.pinimg.com/originals/3d/74/a9/3d74a91a4d260fc5abb53fd027d0fbae.jpg"/>
